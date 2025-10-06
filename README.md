@@ -1,7 +1,7 @@
 # RPSSL — Rock Paper Scissors Spock Lizard (Console Version)
 
 This project is a **console-based implementation** of *Rock, Paper, Scissors, Spock, Lizard (RPSSL)*, created as part of programming activities (Activities 23–33).  
-The program runs entirely in the **terminal** and **does not require any GUI**.  
+The program runs entirely in the **terminal** and does not require any GUI.  
 It is written in **C#** using **Rider**, following an object-oriented structure with a `Program` class.
 
 ## Project Description
