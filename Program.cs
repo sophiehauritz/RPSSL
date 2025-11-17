@@ -39,7 +39,7 @@ internal class Program // definerer klassen Program, som indeholder logikken for
             PrintRound(user, agent, result, userScore, agentScore); // Kalder PrintRound() for at vise rundens detaljer og den aktuelle score. 
         }
 
-        Console.WriteLine(userScore > agentScore ? "\n🎉 Du vandt spillet!" : "\n🤖 Agenten vandt spillet!"); // Når løkken stopper, skrives vinderen af spillet.
+        Console.WriteLine(userScore > agentScore ? "\n Du vandt spillet!" : "\n Agenten vandt spillet!"); // Når løkken stopper, skrives vinderen af spillet.
     }
 
     // Hjælpefunktioner
